@@ -1,4 +1,4 @@
-Para crear el ambiente virtual
+# Para crear el ambiente virtual
 - Se crea una carpeta del proyecto
 - Estando en la terminal, se crea en ambiente 
   
@@ -28,7 +28,6 @@ Para crear el ambiente virtual
   
    ```deactivate```
 
-Alternativo
-Crear un alias para activar
+- Alternativo: Crear un alias para activar
 
    ```alias avenv=.\venv\Scripts\activate```
